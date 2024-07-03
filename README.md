@@ -1,4 +1,4 @@
-<img class="img-fluid" align="center" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/QuickCapture.png?raw=true" width="30%" alt="img-verification"><img align="right" class="img-fluid" width="8%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/apple-ios.png?raw=true?raw=true?raw=true" alt="img-verification">
+<img class="img-fluid" align="center" src="https://raw.githubusercontent.com/ExtrieveTechnologies/QuickCapture/main/img/QuickCapture.png" width="30%" alt="img-verification"><img align="right" class="img-fluid" width="8%" src="https://raw.githubusercontent.com/ExtrieveTechnologies/QuickCapture/main/img/apple-ios.png" alt="img-verification">
 
 ## Document Scanning-Capture SDK IOS v2
 QuickCapture Mobile Scanning SDK Specially designed for native IOS from [Extrieve](https://www.extrieve.com/).
